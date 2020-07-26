@@ -49,124 +49,254 @@
     {
       "id": 0,
       "sender": {
-        "name": "Mccormick Hewitt",
-        "firm": "Suretech",
-        "location": "Ghana, Elliott",
-        "isOnline": false,
+        "name": "Summer Bender",
+        "firm": "Mobildata",
+        "location": "Germany, Stevens",
+        "isOnline": true,
         "photo": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
       },
       "messages": [
         {
-          "content": "Sunt ad ullamco nisi ipsum dolore aliqua magna labore veniam exercitation laboris.",
-          "sendAt": "2019-09-30T00:29:06+00:00"
+          "content": "Voluptate cillum non cillum tempor dolore enim.",
+          "isResponse": true,
+          "sendAt": "2019-04-24T14:32:53+00:00"
         },
         {
-          "content": "Id exercitation id laborum elit amet eiusmod Lorem cillum mollit exercitation aliquip amet voluptate.",
-          "sendAt": "2020-01-04T17:11:44+00:00"
+          "content": "Exercitation veniam reprehenderit eiusmod Lorem commodo irure pariatur et aute est.",
+          "isResponse": true,
+          "sendAt": "2019-02-21T20:04:17+00:00"
+        },
+        {
+          "content": "Sint ex irure commodo ullamco duis cupidatat tempor incididunt veniam ad.",
+          "isResponse": false,
+          "sendAt": "2020-07-24T23:52:59+00:00"
+        },
+        {
+          "content": "Eu ea duis pariatur velit et fugiat adipisicing ullamco sint.",
+          "isResponse": true,
+          "sendAt": "2019-05-05T11:49:24+00:00"
+        },
+        {
+          "content": "Ea ex reprehenderit ut ullamco adipisicing incididunt.",
+          "isResponse": true,
+          "sendAt": "2020-06-10T23:57:28+00:00"
+        },
+        {
+          "content": "Amet duis labore elit magna ullamco sit dolor dolor.",
+          "isResponse": false,
+          "sendAt": "2020-06-21T10:14:13+00:00"
+        },
+        {
+          "content": "Occaecat duis reprehenderit nisi nulla.",
+          "isResponse": false,
+          "sendAt": "2019-03-07T08:15:14+00:00"
+        },
+        {
+          "content": "Exercitation ea non dolore velit sunt aliqua.",
+          "isResponse": false,
+          "sendAt": "2019-08-23T13:36:27+00:00"
         }
       ]
     },
     {
       "id": 1,
       "sender": {
-        "name": "Alice Ayers",
-        "firm": "Artworlds",
-        "location": "Niger, Gloucester",
+        "name": "Faulkner Weiss",
+        "firm": "Ersum",
+        "location": "Bahrain, Woodlands",
         "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
       },
       "messages": [
         {
-          "content": "Veniam ea consequat nostrud eiusmod nisi commodo nisi id pariatur ex eiusmod.",
-          "sendAt": "2019-09-23T15:43:53+00:00"
+          "content": "Reprehenderit aute laborum nisi consectetur sint ea consectetur.",
+          "isResponse": false,
+          "sendAt": "2020-04-03T23:50:48+00:00"
         },
         {
-          "content": "Labore aliquip non excepteur nulla labore incididunt irure occaecat sunt duis magna laborum proident excepteur.",
-          "sendAt": "2019-10-14T01:34:17+00:00"
+          "content": "Consectetur adipisicing minim consequat reprehenderit excepteur nulla magna voluptate minim.",
+          "isResponse": false,
+          "sendAt": "2020-04-10T06:58:04+00:00"
         },
         {
-          "content": "Sint culpa ut laboris sunt magna qui cupidatat dolore mollit.",
-          "sendAt": "2019-10-17T22:13:26+00:00"
+          "content": "Esse consectetur reprehenderit adipisicing non nisi tempor.",
+          "isResponse": true,
+          "sendAt": "2020-06-22T19:45:20+00:00"
+        },
+        {
+          "content": "Officia fugiat esse do occaecat labore nostrud aliqua.",
+          "isResponse": true,
+          "sendAt": "2020-01-07T18:39:49+00:00"
         }
       ]
     },
     {
       "id": 2,
       "sender": {
-        "name": "Brooks Davidson",
-        "firm": "Oronoko",
-        "location": "Chile, Frizzleburg",
+        "name": "Millicent Randall",
+        "firm": "Matrixity",
+        "location": "Albania, Juntura",
         "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
       },
       "messages": [
         {
-          "content": "Nulla velit cupidatat mollit Lorem.",
-          "sendAt": "2019-05-21T14:51:16+00:00"
+          "content": "Ex occaecat esse magna ea officia nulla dolore reprehenderit aliquip sunt.",
+          "isResponse": true,
+          "sendAt": "2019-05-31T02:01:01+00:00"
         },
         {
-          "content": "Et nostrud proident occaecat deserunt consectetur nulla eu id culpa.",
-          "sendAt": "2019-02-22T22:03:34+00:00"
-        },
-        {
-          "content": "Ex excepteur sit dolor nostrud pariatur.",
-          "sendAt": "2019-06-06T02:59:18+00:00"
-        },
-        {
-          "content": "Eu qui sit quis aliqua.",
-          "sendAt": "2019-01-24T11:53:33+00:00"
+          "content": "Anim do in dolore labore non magna laboris.",
+          "isResponse": true,
+          "sendAt": "2019-05-29T20:18:13+00:00"
         }
       ]
     },
     {
       "id": 3,
       "sender": {
-        "name": "Kristi Lamb",
-        "firm": "Dogtown",
-        "location": "Finland, Odessa",
-        "isOnline": false,
+        "name": "Marie Edwards",
+        "firm": "Quantasis",
+        "location": "Saint Kitts and Nevis, Aberdeen",
+        "isOnline": true,
         "photo": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
       },
       "messages": [
         {
-          "content": "Est sit laborum labore consequat.",
-          "sendAt": "2019-04-15T02:19:41+00:00"
+          "content": "Laborum dolore quis proident nisi aute do deserunt magna mollit nisi do deserunt.",
+          "isResponse": true,
+          "sendAt": "2020-02-20T22:46:01+00:00"
         },
         {
-          "content": "Esse dolore minim tempor ullamco exercitation mollit laboris esse Lorem laboris non.",
-          "sendAt": "2019-08-23T22:01:36+00:00"
+          "content": "Et minim veniam quis duis laborum occaecat ut excepteur non do exercitation.",
+          "isResponse": false,
+          "sendAt": "2020-05-22T01:49:47+00:00"
         },
         {
-          "content": "Sit eiusmod laboris exercitation dolore elit fugiat est laboris nostrud mollit.",
-          "sendAt": "2020-01-25T00:05:42+00:00"
+          "content": "Cupidatat pariatur proident ea dolore incididunt.",
+          "isResponse": true,
+          "sendAt": "2019-04-13T13:11:52+00:00"
+        },
+        {
+          "content": "Incididunt ut cupidatat et non ex voluptate anim magna aliquip voluptate consectetur ipsum qui eiusmod.",
+          "isResponse": true,
+          "sendAt": "2019-09-27T06:25:36+00:00"
+        },
+        {
+          "content": "Ut irure mollit eiusmod ipsum quis do ullamco dolore velit consequat Lorem tempor proident.",
+          "isResponse": false,
+          "sendAt": "2019-12-01T11:08:47+00:00"
+        },
+        {
+          "content": "Incididunt minim pariatur ullamco enim aute reprehenderit adipisicing.",
+          "isResponse": true,
+          "sendAt": "2019-12-02T20:44:02+00:00"
+        },
+        {
+          "content": "Lorem aliquip exercitation aliquip incididunt quis anim eiusmod enim incididunt proident excepteur officia ex.",
+          "isResponse": false,
+          "sendAt": "2020-04-06T01:08:55+00:00"
         }
       ]
     },
     {
       "id": 4,
       "sender": {
-        "name": "Wells Mejia",
-        "firm": "Flexigen",
-        "location": "Mozambique, Longbranch",
+        "name": "Underwood Bolton",
+        "firm": "Aclima",
+        "location": "Costa Rica, Ironton",
         "isOnline": true,
         "photo": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
       },
       "messages": [
         {
-          "content": "In tempor eiusmod ullamco consectetur sit id amet voluptate id ad ad commodo elit.",
-          "sendAt": "2019-12-01T05:57:59+00:00"
+          "content": "Fugiat ea irure velit sunt.",
+          "isResponse": false,
+          "sendAt": "2019-03-17T13:58:39+00:00"
         },
         {
-          "content": "Fugiat ut mollit deserunt ex ullamco amet ad nostrud.",
-          "sendAt": "2019-12-15T15:14:59+00:00"
+          "content": "Do incididunt aute officia voluptate.",
+          "isResponse": false,
+          "sendAt": "2020-03-05T21:23:01+00:00"
         },
         {
-          "content": "Quis laboris ullamco occaecat commodo consectetur duis anim dolor laboris nulla amet aliqua.",
-          "sendAt": "2020-03-18T00:55:26+00:00"
+          "content": "Sint eu excepteur aute ullamco voluptate est pariatur nostrud sunt aliqua ad.",
+          "isResponse": true,
+          "sendAt": "2019-08-04T20:21:34+00:00"
         },
         {
-          "content": "Do quis qui nisi reprehenderit commodo dolore exercitation ex elit deserunt voluptate aliqua quis laborum.",
-          "sendAt": "2019-05-21T11:37:38+00:00"
+          "content": "Sunt quis aliquip qui adipisicing cupidatat excepteur consectetur aliqua deserunt laboris sint do quis ut.",
+          "isResponse": false,
+          "sendAt": "2019-01-28T20:09:17+00:00"
+        },
+        {
+          "content": "Tempor laborum sunt do reprehenderit.",
+          "isResponse": false,
+          "sendAt": "2019-07-08T05:50:36+00:00"
+        },
+        {
+          "content": "Qui exercitation amet aliquip anim deserunt id laboris.",
+          "isResponse": true,
+          "sendAt": "2019-12-29T10:58:46+00:00"
+        },
+        {
+          "content": "Minim aute cupidatat magna elit ad eiusmod anim.",
+          "isResponse": false,
+          "sendAt": "2020-02-10T22:38:53+00:00"
+        },
+        {
+          "content": "Nostrud elit elit minim nisi eiusmod voluptate labore adipisicing.",
+          "isResponse": true,
+          "sendAt": "2019-04-30T18:52:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sender": {
+        "name": "Betsy Shaw",
+        "firm": "Accel",
+        "location": "Tonga, Brecon",
+        "isOnline": false,
+        "photo": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+      },
+      "messages": [
+        {
+          "content": "Qui tempor elit pariatur incididunt laborum deserunt dolor.",
+          "isResponse": false,
+          "sendAt": "2020-02-13T22:50:32+00:00"
+        },
+        {
+          "content": "Cupidatat aliqua occaecat eu nisi veniam elit laboris est enim veniam mollit.",
+          "isResponse": false,
+          "sendAt": "2019-04-03T09:09:38+00:00"
+        },
+        {
+          "content": "Culpa culpa sunt magna ullamco culpa incididunt nostrud ex.",
+          "isResponse": true,
+          "sendAt": "2020-04-30T06:22:57+00:00"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "sender": {
+        "name": "Santos Frank",
+        "firm": "Kenegy",
+        "location": "Tajikistan, Tyhee",
+        "isOnline": false,
+        "photo": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+      },
+      "messages": [
+        {
+          "content": "Ullamco Lorem qui cillum tempor incididunt laborum laborum laboris.",
+          "isResponse": false,
+          "sendAt": "2019-09-11T23:47:39+00:00"
+        },
+        {
+          "content": "Dolore quis deserunt adipisicing commodo dolore occaecat reprehenderit non ex mollit adipisicing est.",
+          "isResponse": true,
+          "sendAt": "2019-03-06T09:44:22+00:00"
         }
       ]
     }

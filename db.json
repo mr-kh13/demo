@@ -219,5 +219,319 @@
       "_id": "5f1d463a1699ddfb849668f2",
       "content": "Cupidatat labore et labore consequat dolore enim magna."
     }
+  ],
+  "recent-chats": [
+    {
+      "id": 0,
+      "sender": {
+        "name": "Harvey Ferguson",
+        "firm": "Apexia",
+        "location": "Kyrgyzstan, Farmers",
+        "isOnline": true,
+        "photo": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+      },
+      "messages": [
+        {
+          "content": "Nulla in amet reprehenderit aute irure voluptate pariatur incididunt minim.",
+          "sendAt": "2020-07-23T16:39:40+00:00"
+        },
+        {
+          "content": "Sunt deserunt laborum exercitation minim excepteur fugiat.",
+          "sendAt": "2019-02-18T12:46:36+00:00"
+        },
+        {
+          "content": "Pariatur commodo non duis amet deserunt qui enim incididunt aliquip.",
+          "sendAt": "2019-04-12T10:26:40+00:00"
+        },
+        {
+          "content": "Magna occaecat reprehenderit et consequat culpa est.",
+          "sendAt": "2020-01-31T19:32:27+00:00"
+        },
+        {
+          "content": "Incididunt ad do cillum sit.",
+          "sendAt": "2019-01-25T12:38:19+00:00"
+        },
+        {
+          "content": "Duis anim nostrud voluptate ea pariatur deserunt adipisicing.",
+          "sendAt": "2019-09-28T16:17:32+00:00"
+        },
+        {
+          "content": "Cupidatat esse labore velit officia pariatur ad.",
+          "sendAt": "2019-01-06T20:34:52+00:00"
+        },
+        {
+          "content": "Ex qui ad consequat eu cupidatat deserunt proident occaecat nulla.",
+          "sendAt": "2019-01-07T11:45:09+00:00"
+        },
+        {
+          "content": "Dolor adipisicing eu id in aliquip.",
+          "sendAt": "2020-07-03T18:44:18+00:00"
+        },
+        {
+          "content": "Elit esse nostrud amet tempor laborum commodo laboris veniam magna elit nisi sunt.",
+          "sendAt": "2020-01-01T15:50:31+00:00"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "sender": {
+        "name": "Mildred Pitts",
+        "firm": "Updat",
+        "location": "Cambodia, Klagetoh",
+        "isOnline": false,
+        "photo": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+      },
+      "messages": [
+        {
+          "content": "Deserunt id est ullamco aliquip et Lorem officia pariatur tempor sunt adipisicing consectetur.",
+          "sendAt": "2020-06-13T12:51:10+00:00"
+        },
+        {
+          "content": "Et aliqua eu ea ullamco ipsum deserunt consequat.",
+          "sendAt": "2019-01-16T21:27:32+00:00"
+        },
+        {
+          "content": "Quis ex non in minim ad Lorem exercitation non pariatur eu consequat minim incididunt consequat.",
+          "sendAt": "2019-01-05T12:08:17+00:00"
+        },
+        {
+          "content": "Culpa adipisicing veniam minim culpa dolor magna dolor veniam nulla esse.",
+          "sendAt": "2019-06-09T20:20:20+00:00"
+        },
+        {
+          "content": "Tempor labore est veniam cupidatat occaecat cupidatat ea sint culpa proident reprehenderit non.",
+          "sendAt": "2019-04-15T17:40:53+00:00"
+        },
+        {
+          "content": "Voluptate cillum dolor enim aute do tempor velit excepteur labore.",
+          "sendAt": "2019-08-27T23:17:34+00:00"
+        },
+        {
+          "content": "Nisi consectetur aliquip anim Lorem irure anim.",
+          "sendAt": "2019-11-12T18:05:04+00:00"
+        },
+        {
+          "content": "Elit esse in amet amet tempor nisi minim do reprehenderit fugiat ea aliquip cupidatat cillum.",
+          "sendAt": "2020-03-21T08:21:32+00:00"
+        },
+        {
+          "content": "Ea incididunt eu magna pariatur ut irure reprehenderit nisi cupidatat consequat cillum.",
+          "sendAt": "2019-08-31T14:03:27+00:00"
+        },
+        {
+          "content": "Nulla non sint do labore.",
+          "sendAt": "2020-02-25T05:52:04+00:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "sender": {
+        "name": "Chaney Reyes",
+        "firm": "Calcula",
+        "location": "French Southern Territories, Bawcomville",
+        "isOnline": true,
+        "photo": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+      },
+      "messages": [
+        {
+          "content": "Ullamco duis minim occaecat exercitation.",
+          "sendAt": "2019-05-22T01:13:26+00:00"
+        },
+        {
+          "content": "In est fugiat anim quis tempor mollit aliqua mollit.",
+          "sendAt": "2020-06-10T22:37:05+00:00"
+        },
+        {
+          "content": "Excepteur excepteur pariatur enim nulla quis quis dolor id incididunt sint dolor nostrud.",
+          "sendAt": "2020-01-28T03:13:51+00:00"
+        },
+        {
+          "content": "Sit aute duis duis sint.",
+          "sendAt": "2019-10-21T02:40:50+00:00"
+        },
+        {
+          "content": "Labore nulla do aute consequat ea nostrud do sunt.",
+          "sendAt": "2020-03-23T01:26:28+00:00"
+        },
+        {
+          "content": "Tempor irure duis labore laborum nisi duis amet.",
+          "sendAt": "2020-04-15T11:00:59+00:00"
+        },
+        {
+          "content": "Aute dolore Lorem laboris tempor dolor ex adipisicing ullamco exercitation elit incididunt.",
+          "sendAt": "2019-03-02T04:14:28+00:00"
+        },
+        {
+          "content": "Voluptate incididunt consequat culpa nostrud ea minim do Lorem quis.",
+          "sendAt": "2019-03-09T00:14:01+00:00"
+        },
+        {
+          "content": "Voluptate do dolor qui esse est.",
+          "sendAt": "2020-02-04T13:14:33+00:00"
+        },
+        {
+          "content": "Consequat cillum nostrud nulla eiusmod pariatur.",
+          "sendAt": "2019-02-17T00:25:21+00:00"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "sender": {
+        "name": "Wade Flowers",
+        "firm": "Jasper",
+        "location": "Latvia, Disautel",
+        "isOnline": false,
+        "photo": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+      },
+      "messages": [
+        {
+          "content": "Irure irure occaecat irure sit adipisicing officia exercitation dolor.",
+          "sendAt": "2019-07-19T19:45:28+00:00"
+        },
+        {
+          "content": "Proident tempor ea in nostrud minim reprehenderit deserunt eiusmod proident ad Lorem proident exercitation esse.",
+          "sendAt": "2019-03-04T17:24:43+00:00"
+        },
+        {
+          "content": "Proident aliquip sint eiusmod Lorem ea laborum pariatur ad magna.",
+          "sendAt": "2019-08-22T18:06:30+00:00"
+        },
+        {
+          "content": "Quis ut aute sunt minim ut culpa elit non eu consequat aliquip ullamco consequat.",
+          "sendAt": "2020-06-24T05:49:33+00:00"
+        },
+        {
+          "content": "Nisi dolore sit cillum fugiat sint eu ea enim laboris duis tempor.",
+          "sendAt": "2019-12-18T17:09:19+00:00"
+        },
+        {
+          "content": "Velit dolore ex fugiat culpa magna elit pariatur fugiat.",
+          "sendAt": "2020-01-16T08:55:03+00:00"
+        },
+        {
+          "content": "Proident do aute minim esse exercitation ad commodo excepteur elit incididunt Lorem minim laborum aliquip.",
+          "sendAt": "2019-09-09T10:55:18+00:00"
+        },
+        {
+          "content": "Esse voluptate laboris dolore pariatur id aute cillum proident ullamco ut.",
+          "sendAt": "2020-07-13T05:02:13+00:00"
+        },
+        {
+          "content": "Commodo magna culpa do laboris occaecat voluptate minim aliqua ipsum in dolor duis consectetur eiusmod.",
+          "sendAt": "2020-06-18T00:50:10+00:00"
+        },
+        {
+          "content": "Ea elit quis incididunt excepteur Lorem qui velit est.",
+          "sendAt": "2019-08-09T09:19:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "sender": {
+        "name": "Jackie Mayo",
+        "firm": "Ovolo",
+        "location": "Kiribati, Crenshaw",
+        "isOnline": false,
+        "photo": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+      },
+      "messages": [
+        {
+          "content": "Dolore elit aliquip velit incididunt commodo eiusmod.",
+          "sendAt": "2019-02-21T21:38:39+00:00"
+        },
+        {
+          "content": "Ad magna quis consectetur laboris anim sunt pariatur tempor.",
+          "sendAt": "2019-05-30T09:46:08+00:00"
+        },
+        {
+          "content": "Nostrud ut velit duis cillum laborum duis laboris officia non ut aute non commodo.",
+          "sendAt": "2020-02-29T15:31:23+00:00"
+        },
+        {
+          "content": "Cupidatat fugiat ad do enim est occaecat laboris nisi sint voluptate cupidatat nulla tempor.",
+          "sendAt": "2019-12-09T04:41:54+00:00"
+        },
+        {
+          "content": "Nostrud enim officia labore ullamco.",
+          "sendAt": "2019-06-16T04:23:06+00:00"
+        },
+        {
+          "content": "Anim eiusmod dolor culpa proident et in qui cupidatat qui aliqua.",
+          "sendAt": "2020-06-25T22:47:50+00:00"
+        },
+        {
+          "content": "Enim commodo officia eu ad.",
+          "sendAt": "2019-04-05T16:45:45+00:00"
+        },
+        {
+          "content": "Reprehenderit nostrud ullamco dolore excepteur.",
+          "sendAt": "2019-05-06T17:04:18+00:00"
+        },
+        {
+          "content": "Duis aute sint sint occaecat.",
+          "sendAt": "2020-07-10T05:49:02+00:00"
+        },
+        {
+          "content": "Proident quis enim sit eiusmod nisi pariatur id reprehenderit labore tempor consequat reprehenderit duis.",
+          "sendAt": "2019-06-26T02:51:39+00:00"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "sender": {
+        "name": "Keri Joyce",
+        "firm": "Indexia",
+        "location": "Vatican City State (Holy See), Coaldale",
+        "isOnline": false,
+        "photo": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+      },
+      "messages": [
+        {
+          "content": "Laborum magna aute ullamco et.",
+          "sendAt": "2020-03-17T08:46:50+00:00"
+        },
+        {
+          "content": "Cupidatat aute est nisi labore magna non sunt sit irure.",
+          "sendAt": "2020-03-16T06:28:54+00:00"
+        },
+        {
+          "content": "Reprehenderit incididunt Lorem tempor ut eu exercitation sint laboris cillum velit incididunt incididunt exercitation reprehenderit.",
+          "sendAt": "2019-06-25T00:28:15+00:00"
+        },
+        {
+          "content": "Veniam quis cupidatat labore ullamco consequat deserunt consectetur.",
+          "sendAt": "2020-07-15T18:08:33+00:00"
+        },
+        {
+          "content": "Elit minim elit duis eiusmod ea officia ad deserunt tempor ullamco pariatur ullamco fugiat.",
+          "sendAt": "2019-02-01T22:16:03+00:00"
+        },
+        {
+          "content": "Ex eu quis esse minim minim eu veniam cillum aute.",
+          "sendAt": "2019-02-14T00:53:59+00:00"
+        },
+        {
+          "content": "Laborum cillum non enim eu cillum nulla dolore tempor et.",
+          "sendAt": "2019-01-22T08:44:46+00:00"
+        },
+        {
+          "content": "Velit voluptate nisi duis laborum anim ipsum ea quis.",
+          "sendAt": "2019-03-16T09:23:20+00:00"
+        },
+        {
+          "content": "Consequat ullamco occaecat quis in amet.",
+          "sendAt": "2019-08-02T20:32:01+00:00"
+        },
+        {
+          "content": "Occaecat duis fugiat ipsum in.",
+          "sendAt": "2020-04-07T18:57:42+00:00"
+        }
+      ]
+    }
   ]
 }

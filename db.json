@@ -49,123 +49,66 @@
     {
       "id": 0,
       "sender": {
-        "name": "Martina Brock",
-        "firm": "Goko",
-        "location": "Nigeria, Monument",
-        "isOnline": true,
+        "name": "Reeves Love",
+        "firm": "Liquidoc",
+        "location": "Korea (South), Kansas",
+        "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
       },
       "messages": [
         {
-          "content": "Duis deserunt nisi reprehenderit non aliqua amet ullamco.",
+          "content": "Laboris commodo voluptate sit duis anim sit dolor nisi laboris occaecat excepteur commodo.",
           "isResponse": false,
-          "sendAt": "2020-02-08T21:42:17+00:00"
+          "sendAt": "2019-06-02T04:03:14+00:00"
         },
         {
-          "content": "Mollit incididunt dolore incididunt anim laborum cupidatat.",
+          "content": "Nostrud laborum ad voluptate aliquip officia irure minim laboris aute sint non ex magna duis.",
           "isResponse": false,
-          "sendAt": "2020-07-05T00:37:58+00:00"
-        },
-        {
-          "content": "Laboris enim proident voluptate sunt sint esse ex id.",
-          "isResponse": false,
-          "sendAt": "2019-11-02T09:25:51+00:00"
-        },
-        {
-          "content": "Ipsum cillum ullamco ad do aliquip consectetur eiusmod ex.",
-          "isResponse": true,
-          "sendAt": "2020-03-02T16:38:37+00:00"
-        },
-        {
-          "content": "Qui nostrud duis tempor ex occaecat exercitation.",
-          "isResponse": true,
-          "sendAt": "2019-08-14T11:10:48+00:00"
+          "sendAt": "2020-03-28T21:40:26+00:00"
         }
       ]
     },
     {
       "id": 1,
       "sender": {
-        "name": "Roberts Woods",
-        "firm": "Thredz",
-        "location": "Cape Verde, Albany",
+        "name": "Munoz Herman",
+        "firm": "Toyletry",
+        "location": "Yugoslavia, Tilleda",
         "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
       },
       "messages": [
         {
-          "content": "Quis et elit enim eu irure est ipsum do ullamco est minim eu Lorem.",
-          "isResponse": false,
-          "sendAt": "2019-11-19T13:44:29+00:00"
-        },
-        {
-          "content": "Sit anim laboris adipisicing labore sint excepteur est magna aliqua excepteur.",
-          "isResponse": false,
-          "sendAt": "2019-07-30T03:39:46+00:00"
-        },
-        {
-          "content": "Exercitation aliquip ipsum dolor ut anim ad voluptate esse nisi qui do ullamco.",
+          "content": "Occaecat eu ad ex magna officia reprehenderit fugiat fugiat veniam commodo nulla ut nulla id.",
           "isResponse": true,
-          "sendAt": "2020-03-06T06:42:26+00:00"
+          "sendAt": "2019-11-01T01:53:29+00:00"
         },
         {
-          "content": "In deserunt enim amet laboris consequat minim elit ex veniam irure cupidatat.",
+          "content": "Exercitation non proident ut veniam.",
           "isResponse": true,
-          "sendAt": "2020-02-13T04:00:15+00:00"
-        },
-        {
-          "content": "Excepteur consectetur Lorem duis ipsum id nostrud.",
-          "isResponse": false,
-          "sendAt": "2019-04-24T00:20:19+00:00"
+          "sendAt": "2019-06-20T22:22:20+00:00"
         }
       ]
     },
     {
       "id": 2,
       "sender": {
-        "name": "Brock Wynn",
-        "firm": "Terragen",
-        "location": "Ireland, Boling",
-        "isOnline": false,
+        "name": "Amy Taylor",
+        "firm": "Ecstasia",
+        "location": "Grenada, Dorneyville",
+        "isOnline": true,
         "photo": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
       },
       "messages": [
         {
-          "content": "Anim do nulla laborum do cillum pariatur reprehenderit.",
+          "content": "Nisi dolor adipisicing irure et sint incididunt dolor nostrud sint Lorem.",
           "isResponse": true,
-          "sendAt": "2019-01-19T20:58:34+00:00"
+          "sendAt": "2019-06-25T21:44:51+00:00"
         },
         {
-          "content": "Esse nisi id minim cillum id cupidatat nostrud ex velit nulla elit deserunt pariatur est.",
-          "isResponse": false,
-          "sendAt": "2019-10-14T22:18:56+00:00"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "sender": {
-        "name": "Jimenez Miller",
-        "firm": "Comcur",
-        "location": "Cyprus, Morningside",
-        "isOnline": false,
-        "photo": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
-      },
-      "messages": [
-        {
-          "content": "Commodo aliquip culpa aute tempor dolor quis culpa mollit sit non minim magna duis deserunt.",
+          "content": "Dolor nulla minim Lorem mollit elit mollit esse pariatur.",
           "isResponse": true,
-          "sendAt": "2020-05-19T11:04:33+00:00"
-        },
-        {
-          "content": "Consectetur do laborum pariatur esse sunt sunt ex.",
-          "isResponse": true,
-          "sendAt": "2020-04-08T11:50:50+00:00"
-        },
-        {
-          "content": "Laborum exercitation minim sunt et ipsum aliquip.",
-          "isResponse": true,
-          "sendAt": "2019-12-18T11:56:35+00:00"
+          "sendAt": "2020-02-15T20:38:32+00:00"
         }
       ]
     }

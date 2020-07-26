@@ -49,160 +49,124 @@
     {
       "id": 0,
       "sender": {
-        "name": "Mcdowell Mcclain",
-        "firm": "Dymi",
-        "location": "Philippines, Cuylerville",
+        "name": "Mccormick Hewitt",
+        "firm": "Suretech",
+        "location": "Ghana, Elliott",
         "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
       },
       "messages": [
         {
-          "content": "Pariatur proident eu aliquip mollit in minim enim excepteur Lorem id eiusmod ex.",
-          "sendAt": "2020-04-26T18:38:40+00:00"
+          "content": "Sunt ad ullamco nisi ipsum dolore aliqua magna labore veniam exercitation laboris.",
+          "sendAt": "2019-09-30T00:29:06+00:00"
         },
         {
-          "content": "Irure aute mollit incididunt est elit sint duis minim id ipsum reprehenderit incididunt.",
-          "sendAt": "2019-03-10T10:51:43+00:00"
-        },
-        {
-          "content": "Adipisicing excepteur esse ad culpa ex est incididunt deserunt.",
-          "sendAt": "2020-05-28T05:11:09+00:00"
-        },
-        {
-          "content": "Occaecat tempor fugiat veniam in.",
-          "sendAt": "2019-07-15T08:22:15+00:00"
-        },
-        {
-          "content": "Incididunt reprehenderit excepteur ullamco culpa aute cupidatat nisi sit ex minim est ipsum mollit.",
-          "sendAt": "2020-05-31T06:19:58+00:00"
+          "content": "Id exercitation id laborum elit amet eiusmod Lorem cillum mollit exercitation aliquip amet voluptate.",
+          "sendAt": "2020-01-04T17:11:44+00:00"
         }
       ]
     },
     {
       "id": 1,
       "sender": {
-        "name": "Rosario Hodge",
-        "firm": "Ewaves",
-        "location": "Argentina, Condon",
+        "name": "Alice Ayers",
+        "firm": "Artworlds",
+        "location": "Niger, Gloucester",
         "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
       },
       "messages": [
         {
-          "content": "Veniam esse cillum velit ad reprehenderit laborum quis in sunt.",
-          "sendAt": "2019-10-12T00:13:14+00:00"
+          "content": "Veniam ea consequat nostrud eiusmod nisi commodo nisi id pariatur ex eiusmod.",
+          "sendAt": "2019-09-23T15:43:53+00:00"
         },
         {
-          "content": "Eiusmod esse voluptate sint labore consectetur duis labore laboris enim quis adipisicing sint.",
-          "sendAt": "2020-01-03T03:15:41+00:00"
+          "content": "Labore aliquip non excepteur nulla labore incididunt irure occaecat sunt duis magna laborum proident excepteur.",
+          "sendAt": "2019-10-14T01:34:17+00:00"
         },
         {
-          "content": "Sit reprehenderit anim nostrud minim.",
-          "sendAt": "2019-08-23T07:59:40+00:00"
-        },
-        {
-          "content": "Qui Lorem sunt officia esse minim esse aliqua incididunt laboris.",
-          "sendAt": "2020-03-27T14:05:16+00:00"
-        },
-        {
-          "content": "Qui Lorem commodo officia dolor ex pariatur proident.",
-          "sendAt": "2020-01-03T22:47:20+00:00"
+          "content": "Sint culpa ut laboris sunt magna qui cupidatat dolore mollit.",
+          "sendAt": "2019-10-17T22:13:26+00:00"
         }
       ]
     },
     {
       "id": 2,
       "sender": {
-        "name": "Tamera Newman",
-        "firm": "Fishland",
-        "location": "Taiwan, Sultana",
+        "name": "Brooks Davidson",
+        "firm": "Oronoko",
+        "location": "Chile, Frizzleburg",
         "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
       },
       "messages": [
         {
-          "content": "Commodo Lorem culpa tempor qui adipisicing.",
-          "sendAt": "2019-10-04T03:12:54+00:00"
+          "content": "Nulla velit cupidatat mollit Lorem.",
+          "sendAt": "2019-05-21T14:51:16+00:00"
         },
         {
-          "content": "Mollit amet dolore ipsum laboris.",
-          "sendAt": "2019-10-28T11:28:38+00:00"
+          "content": "Et nostrud proident occaecat deserunt consectetur nulla eu id culpa.",
+          "sendAt": "2019-02-22T22:03:34+00:00"
         },
         {
-          "content": "Tempor aliquip ea aute laboris Lorem exercitation labore occaecat irure occaecat.",
-          "sendAt": "2019-10-30T13:47:40+00:00"
+          "content": "Ex excepteur sit dolor nostrud pariatur.",
+          "sendAt": "2019-06-06T02:59:18+00:00"
         },
         {
-          "content": "Adipisicing ullamco nostrud ipsum incididunt sunt cillum.",
-          "sendAt": "2019-03-24T02:41:50+00:00"
-        },
-        {
-          "content": "Ut officia ad ullamco eiusmod dolor magna mollit adipisicing enim nostrud consequat eiusmod nisi.",
-          "sendAt": "2019-01-10T02:32:29+00:00"
+          "content": "Eu qui sit quis aliqua.",
+          "sendAt": "2019-01-24T11:53:33+00:00"
         }
       ]
     },
     {
       "id": 3,
       "sender": {
-        "name": "Marquita Tyler",
-        "firm": "Quilch",
-        "location": "Ecuador, Kieler",
-        "isOnline": true,
+        "name": "Kristi Lamb",
+        "firm": "Dogtown",
+        "location": "Finland, Odessa",
+        "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
       },
       "messages": [
         {
-          "content": "Laborum sit occaecat irure aliquip veniam ex veniam magna laborum fugiat qui adipisicing.",
-          "sendAt": "2019-05-29T08:45:36+00:00"
+          "content": "Est sit laborum labore consequat.",
+          "sendAt": "2019-04-15T02:19:41+00:00"
         },
         {
-          "content": "Aliqua nulla ea irure ad aute quis velit ad mollit tempor.",
-          "sendAt": "2019-01-05T17:52:57+00:00"
+          "content": "Esse dolore minim tempor ullamco exercitation mollit laboris esse Lorem laboris non.",
+          "sendAt": "2019-08-23T22:01:36+00:00"
         },
         {
-          "content": "Consectetur esse irure eu qui eiusmod voluptate consequat incididunt dolor enim id dolore.",
-          "sendAt": "2020-07-09T18:31:21+00:00"
-        },
-        {
-          "content": "Occaecat excepteur officia elit do laborum enim.",
-          "sendAt": "2020-01-03T20:44:13+00:00"
-        },
-        {
-          "content": "In ea aliqua aute officia in sit ullamco non fugiat minim fugiat.",
-          "sendAt": "2020-07-24T22:47:08+00:00"
+          "content": "Sit eiusmod laboris exercitation dolore elit fugiat est laboris nostrud mollit.",
+          "sendAt": "2020-01-25T00:05:42+00:00"
         }
       ]
     },
     {
       "id": 4,
       "sender": {
-        "name": "Bertie Obrien",
-        "firm": "Mantrix",
-        "location": "Solomon Islands, Sanborn",
+        "name": "Wells Mejia",
+        "firm": "Flexigen",
+        "location": "Mozambique, Longbranch",
         "isOnline": true,
         "photo": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
       },
       "messages": [
         {
-          "content": "Lorem non est in ullamco consequat esse quis magna non irure dolor cillum pariatur esse.",
-          "sendAt": "2020-05-28T00:26:51+00:00"
+          "content": "In tempor eiusmod ullamco consectetur sit id amet voluptate id ad ad commodo elit.",
+          "sendAt": "2019-12-01T05:57:59+00:00"
         },
         {
-          "content": "Deserunt magna incididunt pariatur nostrud nulla consectetur Lorem deserunt fugiat voluptate ad fugiat.",
-          "sendAt": "2019-08-14T16:37:14+00:00"
+          "content": "Fugiat ut mollit deserunt ex ullamco amet ad nostrud.",
+          "sendAt": "2019-12-15T15:14:59+00:00"
         },
         {
-          "content": "Minim officia deserunt veniam dolore officia ad.",
-          "sendAt": "2019-08-18T03:10:31+00:00"
+          "content": "Quis laboris ullamco occaecat commodo consectetur duis anim dolor laboris nulla amet aliqua.",
+          "sendAt": "2020-03-18T00:55:26+00:00"
         },
         {
-          "content": "In pariatur tempor excepteur et nostrud exercitation culpa.",
-          "sendAt": "2020-02-29T12:50:01+00:00"
-        },
-        {
-          "content": "Reprehenderit quis nisi Lorem culpa voluptate incididunt quis nulla.",
-          "sendAt": "2020-06-06T19:34:21+00:00"
+          "content": "Do quis qui nisi reprehenderit commodo dolore exercitation ex elit deserunt voluptate aliqua quis laborum.",
+          "sendAt": "2019-05-21T11:37:38+00:00"
         }
       ]
     }

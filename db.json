@@ -49,66 +49,86 @@
     {
       "id": 0,
       "sender": {
-        "name": "Reeves Love",
-        "firm": "Liquidoc",
-        "location": "Korea (South), Kansas",
+        "name": "Baldwin English",
+        "firm": "Nebulean",
+        "location": "Iraq, Bedias",
         "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
       },
       "messages": [
         {
-          "content": "Laboris commodo voluptate sit duis anim sit dolor nisi laboris occaecat excepteur commodo.",
+          "content": "Cupidatat proident incididunt dolor aliquip.",
           "isResponse": false,
-          "sendAt": "2019-06-02T04:03:14+00:00"
+          "sendAt": "2019-02-19T13:45:07+00:00"
         },
         {
-          "content": "Nostrud laborum ad voluptate aliquip officia irure minim laboris aute sint non ex magna duis.",
+          "content": "Velit veniam cillum occaecat eiusmod.",
           "isResponse": false,
-          "sendAt": "2020-03-28T21:40:26+00:00"
+          "sendAt": "2019-12-23T19:26:06+00:00"
+        },
+        {
+          "content": "Id excepteur do et et.",
+          "isResponse": true,
+          "sendAt": "2019-08-04T11:49:01+00:00"
+        },
+        {
+          "content": "Aliqua ullamco in culpa voluptate ad labore occaecat non eu amet irure ea.",
+          "isResponse": true,
+          "sendAt": "2019-04-12T09:10:49+00:00"
+        },
+        {
+          "content": "Tempor eu nisi nisi amet deserunt excepteur mollit deserunt consectetur pariatur.",
+          "isResponse": false,
+          "sendAt": "2019-07-12T04:12:57+00:00"
         }
       ]
     },
     {
       "id": 1,
       "sender": {
-        "name": "Munoz Herman",
-        "firm": "Toyletry",
-        "location": "Yugoslavia, Tilleda",
+        "name": "Essie Orr",
+        "firm": "Accruex",
+        "location": "Suriname, Sunriver",
         "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
       },
       "messages": [
         {
-          "content": "Occaecat eu ad ex magna officia reprehenderit fugiat fugiat veniam commodo nulla ut nulla id.",
+          "content": "Cillum consectetur pariatur mollit commodo Lorem reprehenderit esse tempor cupidatat enim reprehenderit nostrud occaecat occaecat.",
           "isResponse": true,
-          "sendAt": "2019-11-01T01:53:29+00:00"
+          "sendAt": "2019-07-02T12:14:49+00:00"
         },
         {
-          "content": "Exercitation non proident ut veniam.",
+          "content": "Est officia irure ipsum velit reprehenderit qui ullamco officia dolor do qui irure dolor sunt.",
           "isResponse": true,
-          "sendAt": "2019-06-20T22:22:20+00:00"
+          "sendAt": "2019-07-24T10:40:04+00:00"
         }
       ]
     },
     {
       "id": 2,
       "sender": {
-        "name": "Amy Taylor",
-        "firm": "Ecstasia",
-        "location": "Grenada, Dorneyville",
-        "isOnline": true,
+        "name": "Schmidt Fletcher",
+        "firm": "Bleendot",
+        "location": "American Samoa, Vale",
+        "isOnline": false,
         "photo": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
       },
       "messages": [
         {
-          "content": "Nisi dolor adipisicing irure et sint incididunt dolor nostrud sint Lorem.",
+          "content": "Qui nostrud magna Lorem proident irure labore dolore eu ipsum consectetur anim cupidatat quis.",
           "isResponse": true,
-          "sendAt": "2019-06-25T21:44:51+00:00"
+          "sendAt": "2020-02-14T08:29:20+00:00"
         },
         {
-          "content": "Dolor nulla minim Lorem mollit elit mollit esse pariatur.",
+          "content": "Voluptate quis proident consequat dolor sunt est quis ipsum ullamco nostrud.",
+          "isResponse": false,
+          "sendAt": "2019-09-29T03:17:42+00:00"
+        },
+        {
+          "content": "Aute laboris ullamco ipsum nisi culpa Lorem ad cupidatat veniam laborum.",
           "isResponse": true,
-          "sendAt": "2020-02-15T20:38:32+00:00"
+          "sendAt": "2019-01-13T02:56:30+00:00"
         }
       ]
     }
